@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "name": "Akjol",
+      "surname": "kwhefuk",
+      "number": "44322",
+      "KPI_of_week": "75,4",
+      "KPI_of_month": "83,5",
+      "id": 1
+    },
+    {
+      "name": "Atakhan",
+      "surname": "Ismailov",
+      "number": "33495",
+      "KPI_of_week": "100",
+      "KPI_of_month": "100",
+      "id": 3
+    },
+    {
+      "name": "Burul",
+      "surname": "qwdqdq",
+      "number": "86543",
+      "KPI_of_week": "79",
+      "KPI_of_month": "87",
+      "id": 4
+    },
+    {
+      "name": "Pavel",
+      "surname": "qdwq",
+      "number": "98433",
+      "KPI_of_week": "95",
+      "KPI_of_month": "92",
+      "id": 5
+    }
+  ]
+}
